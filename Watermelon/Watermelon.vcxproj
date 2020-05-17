@@ -23,6 +23,7 @@
     <ProjectGuid>{A79AAD79-D724-4111-A6FB-4BD7023A18FB}</ProjectGuid>
     <RootNamespace>Watermelon</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>4A</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
